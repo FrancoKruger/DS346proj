@@ -1,0 +1,16 @@
+# Ignore virtual environments
+env/
+venv/
+.env/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode and other editor files
+.vscode/
