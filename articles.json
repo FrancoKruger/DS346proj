@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 21958,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Trump Says He\u2019ll Prosecute Google If He Retakes Power",
+            "description": "The former president insists Google is hiding positive news stories about him.",
+            "url": "https://gizmodo.com/trump-says-hell-prosecute-google-if-he-retakes-power-2000504499",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/trump-tie-crooked.jpg",
+            "publishedAt": "2024-09-27T19:05:27Z",
+            "content": "Donald Trump called for the criminal prosecution of Google by the U.S. Justice Department (DOJ) during a flurry of unhinged tweets Friday on his social media platform Truth Social. And in any other p\u2026 [+4738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Kamala Harris accepts CNN invitation for TV debate",
+            "description": "Trump has yet to comment on the proposed rematch, but has said previously he wouldn't debate Harris again.",
+            "url": "https://www.bbc.com/news/articles/cwyejk91d2qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ff65/live/e41aecd0-783e-11ef-a842-dbb5a90b51c3.jpg",
+            "publishedAt": "2024-09-21T17:53:38Z",
+            "content": "Vice President Kamala Harris has accepted a CNN invitation to a presidential debate on 23 October, just days before the November election. \r\nIt is unlikely that her rival Donald Trump will accept the\u2026 [+1992 chars]"
+        }
+    ]
+}
